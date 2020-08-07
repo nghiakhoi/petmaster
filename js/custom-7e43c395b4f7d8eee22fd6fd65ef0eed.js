@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$('.show-more').on('click',function(){$(".area_article").addClass("area_articleFull");$(".area_article").attr("style","");$(".show-more").remove()})})
